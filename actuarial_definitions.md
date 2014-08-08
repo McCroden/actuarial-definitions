@@ -18,9 +18,9 @@
 > Basic functions used as measurement standards to determine levels of personal functioning capacity. Typical ADLs include bathing, continence, dressing, eating, toileting, and transferring (between bed and chair or wheelchair). (ASOP No. [18][18])
 
 ##### Actual Experience:
-> [1]Historical results within a dividend factor class and trends in those results. (ASOP No. [15][15])   
+> 1: Historical results within a dividend factor class and trends in those results. (ASOP No. [15][15])   
 >  
-> [2] Historical results and trends in those results. (ASOP No. [24][24])
+> 2: Historical results and trends in those results. (ASOP No. [24][24])
 
 ##### Actual-to-Expected (A/E) Analysis:
 > The process of calculating and analyzing A/E ratios over a selected time period; for example, across different ages, genders and durations. This is also known as an A/E study. (ASOP No. [48][48])
@@ -44,9 +44,9 @@
 > The present value, calculated as of the appraisal date, of projected distributable earnings of an insurance business where the distributable earnings are based on a set of assumptions. (ASOP No. [19][19])
 
 ##### Actuarial Assumption:
-> [1] The value of a parameter, or other actuarial choice, having an impact on an estimate of a future cost, or other actuarial item, under evaluation. (ASOP No. [17][17])   
+> 1: The value of a parameter, or other actuarial choice, having an impact on an estimate of a future cost, or other actuarial item, under evaluation. (ASOP No. [17][17])   
 >  
-> [2] The value of a parameter, or other choice, having an impact on an estimate of a future cost, income, or other actuarial item of a program under evaluation. (ASOP No. [32][32])
+> 2: The value of a parameter, or other choice, having an impact on an estimate of a future cost, income, or other actuarial item of a program under evaluation. (ASOP No. [32][32])
 
 ##### Actuarial Assumptions:
 > Assumptions as to the occurrence of future events affecting pension costs, such as mortality, withdrawal, disablement and retirement; changes in compensation and government-provided pension benefits; rates of investment earnings and asset appreciation or depreciation; procedures used to determine the actuarial value of assets; characteristics of future entrants for open group actuarial cost methods; and other relevant items. (ASOP No. [4][4])
@@ -66,7 +66,7 @@
 ##### Actuarial Cost Method or Funding Method:
 > [1]A procedure for allocating the actuarial present value of projected benefits (and expenses, if applicable) to time periods usually in the form of a normal cost and an actuarial accrued liability. For purposes of this standard, a pay-as-you-go method is not considered to be an actuarial cost method. (ASOP No. [4][4]);   
 >  
-> [2] A procedure for allocating the actuarial present value of future plan costs over time periods. (ASOP No. [6][6])
+> 2: A procedure for allocating the actuarial present value of future plan costs over time periods. (ASOP No. [6][6])
 
 ##### Actuarial Document:
 > An actuarial communication in any recorded form (such as paper, e-mail, spreadsheets, presentations, audio or video recordings, web sites, and court or hearing transcripts). Notes taken by someone other than the actuary are not considered actuarial documents. (ASOP No. [41][41])
@@ -93,19 +93,19 @@
 > The actuarial present value of benefits that are expected to be paid in the future, taking into account the effect of such items as future service, advancement in age, and anticipated future compensation (sometimes referred to as the “present value of future benefits. (ASOP No. [4][4])
 
 ##### Actuarial Report:
-> [1] A document, or other presentation, prepared as a formal means of conveying the actuary’s professional conclusions and recommendations, of recording and communicating the methods and procedures, and of ensuring that the parties addressed are aware of the significance of the actuary’s opinion or findings. (ASOP No. [9][9])   
+> 1: A document, or other presentation, prepared as a formal means of conveying the actuary’s professional conclusions and recommendations, of recording and communicating the methods and procedures, and of ensuring that the parties addressed are aware of the significance of the actuary’s opinion or findings. (ASOP No. [9][9])   
 >  
-> [2] A document, or other written presentation, prepared as a formal means of conveying an actuary’s professional conclusions and recommendations; recording and communicating the methods, procedures, and assumptions; and providing the parties addressed with the actuary’s opinion or findings. (ASOP No. [32][32])   
+> 2: A document, or other written presentation, prepared as a formal means of conveying an actuary’s professional conclusions and recommendations; recording and communicating the methods, procedures, and assumptions; and providing the parties addressed with the actuary’s opinion or findings. (ASOP No. [32][32])   
 >  
-> [3] The set of actuarial documents that the actuary determines to be relevant to specific actuarial findings that is available to an intended user. (ASOP No. [41][41])
+> 3: The set of actuarial documents that the actuary determines to be relevant to specific actuarial findings that is available to an intended user. (ASOP No. [41][41])
 
 ##### Actuarial Services:
 > Professional services provided to a principal by an individual acting in the capacity of an actuary. Such services include the rendering of advice, recommendations, findings, or opinions based upon actuarial considerations. (ASOP Nos. [1][1] and [41][41])
 
 ##### Actuarial Soundness:
-> [1] Small employer health benefit plan premium rates are actuarially sound if, for business in the state for which the certification is being prepared and for the period covered by the certification, projected premiums in the aggregate, including expected reinsurance cash flows, governmental risk adjustment cash flows, and investment income, are adequate to provide for all expected costs, including health benefits, health benefit settlement expenses, marketing and administrative expenses, and the cost of capital. For either a retrospective or a prospective certification, the determination of actuarial soundness is based on information available at the time the premium rates were established. (ASOP No. [26][26]);   
+> 1: Small employer health benefit plan premium rates are actuarially sound if, for business in the state for which the certification is being prepared and for the period covered by the certification, projected premiums in the aggregate, including expected reinsurance cash flows, governmental risk adjustment cash flows, and investment income, are adequate to provide for all expected costs, including health benefits, health benefit settlement expenses, marketing and administrative expenses, and the cost of capital. For either a retrospective or a prospective certification, the determination of actuarial soundness is based on information available at the time the premium rates were established. (ASOP No. [26][26]);   
 >  
-> [2] The phrase “actuarial soundness” has different meanings in different contexts and might be dictated or imposed by an outside entity. In rendering actuarial services, if the actuary identifies the process or result as “actuarially sound,” the actuary should define the meaning of “actuarially sound” in that context. (ASOP No. [1][1])
+> 2: The phrase “actuarial soundness” has different meanings in different contexts and might be dictated or imposed by an outside entity. In rendering actuarial services, if the actuary identifies the process or result as “actuarially sound,” the actuary should define the meaning of “actuarially sound” in that context. (ASOP No. [1][1])
 
 ##### Actuarial Standard of Practice:
 > A statement, adopted by the Actuarial Standards Board, the Interim Actuarial Standards Board, or the Board of Directors of the American Academy of Actuaries (AAA) and binding on members of the AAA, that defines acceptable practices in actuarial work. (ASOP No. [17][17])
@@ -114,16 +114,16 @@
 > A measure of the relative value of program income and program assets to program costs over a specified period of time. (ASOP No. [32][32])
 
 ##### Actuarial Valuation:
-> [1] The determination, as of a measurement date, of the actuarial present value of a retirement plan benefit and any related benefits. (ASOP No. [34][34]);   
+> 1: The determination, as of a measurement date, of the actuarial present value of a retirement plan benefit and any related benefits. (ASOP No. [34][34]);   
 >  
-> [2] The measurement of relevant pension obligations and, when applicable, the determination of periodic costs or actuarially determined contributions. (ASOP No. [4][4]);   
+> 2: The measurement of relevant pension obligations and, when applicable, the determination of periodic costs or actuarially determined contributions. (ASOP No. [4][4]);   
 >  
-> [3] The measurement of relevant pension obligations and, when applicable, the determination of the actuarial value of assets, periodic costs, or contributions. (ASOP No. [44][44])
+> 3: The measurement of relevant pension obligations and, when applicable, the determination of the actuarial value of assets, periodic costs, or contributions. (ASOP No. [44][44])
 
 ##### Actuarial Value of Assets or Valuation Assets:
-> [1] The value of cash, investments, and other property belonging to a pension plan, as used by the actuary for the purpose of an actuarial valuation. (ASOP No. [4][4]).   
+> 1: The value of cash, investments, and other property belonging to a pension plan, as used by the actuary for the purpose of an actuarial valuation. (ASOP No. [4][4]).   
 >  
-> [2] The value of pension plan investments and other property, used by the actuary for the purpose of an actuarial valuation (sometimes referred to as valuation assets or market-related value of assets.). (ASOP No. [44][44])
+> 2: The value of pension plan investments and other property, used by the actuary for the purpose of an actuarial valuation (sometimes referred to as valuation assets or market-related value of assets.). (ASOP No. [44][44])
 
 ##### Actuarial Work Product:
 > The result of an actuary’s work. The term applies to the following actuarial communications, whether written or oral: statements of actuarial opinion, actuarial reports, statements of actuarial review, and required actuarial documents. (ASOP Nos. 9 & 36)
@@ -141,9 +141,9 @@
 > An amount payable by the resident at the inception of a residency agreement. The advance fee is usually specified in the residency agreement and is usually payable prior to the resident assuming occupancy of a living unit (sometimes referred to as an entrance fee, endowment fee, entry fee, or founder’s fee). (ASOP No. [3][3])
 
 ##### Adverse Selection:
-> [1] Actions taken by one party using risk characteristics or other information known to or suspected by that party that cause a financial disadvantage to the financial or personal security system (sometimes referred to as antiselection). (ASOP No. [12][12]);   
+> 1: Actions taken by one party using risk characteristics or other information known to or suspected by that party that cause a financial disadvantage to the financial or personal security system (sometimes referred to as antiselection). (ASOP No. [12][12]);   
 >  
-> [2] The actions of plan participants who are motivated directly or indirectly to take financial advantage of plan provisions, such as the choice of plan. (ASOP No. [6][6])
+> 2: The actions of plan participants who are motivated directly or indirectly to take financial advantage of plan provisions, such as the choice of plan. (ASOP No. [6][6])
 
 ##### Advice:
 > An actuary’s communication or other work product in oral, written, or electronic form setting forth the actuary’s professional opinion or recommendations concerning work that falls within the scope of this standard. (ASOP No. [12][12])
@@ -179,24 +179,24 @@
 > The actions of individuals, acting for themselves or for others, who are motivated directly or indirectly to take financial advantage of the risk classification system. (ASOP No. [40][40])
 
 ##### Applicable Law:
-> [1] Federal, state, and local statutes, regulations, case law, and other binding authority that may govern the domestic relations action, the retirement plan or plans, or any other aspect of the actuary’s engagement. (ASOP No. [34][34])   
+> 1: Federal, state, and local statutes, regulations, case law, and other binding authority that may govern the domestic relations action, the retirement plan or plans, or any other aspect of the actuary’s engagement. (ASOP No. [34][34])   
 >  
-> [2] Federal, state, and local statutes, regulations, case law, and other binding authority that may govern the conversion of the subject mutual life insurance company to a stock life insurance company, including conversion to a mutual holding company structure. (ASOP No. [33][33])   
+> 2: Federal, state, and local statutes, regulations, case law, and other binding authority that may govern the conversion of the subject mutual life insurance company to a stock life insurance company, including conversion to a mutual holding company structure. (ASOP No. [33][33])   
 >  
-> [3] Federal, state, and local statutes, regulations, case law, and other binding authority that may govern analysis of insurer cash flows. (ASOP No. [7][7])   
+> 3: Federal, state, and local statutes, regulations, case law, and other binding authority that may govern analysis of insurer cash flows. (ASOP No. [7][7])   
 >  
-> [4] Federal, state, and local statutes, regulations, case law, and other binding authority that may govern statements of actuarial opinion based on asset adequacy analysis. (ASOP No. [22][22])   
+> 4: Federal, state, and local statutes, regulations, case law, and other binding authority that may govern statements of actuarial opinion based on asset adequacy analysis. (ASOP No. [22][22])   
 >  
-> [5] Federal, state, and local statutes, regulations, case law, and other legal binding authority that may govern the actuarial work being performed. (ASOP No. [2][2])
+> 5: Federal, state, and local statutes, regulations, case law, and other legal binding authority that may govern the actuarial work being performed. (ASOP No. [2][2])
 
 ##### Appointed Actuary:
-> [1] Any individual who is appointed or retained in accordance with the requirements set forth in the model Actuarial Opinion and Memorandum Regulation of the National Association of Insurance Commissioners (NAIC). (ASOP No. [22][22] & ACG No. [4][4])
+> 1: Any individual who is appointed or retained in accordance with the requirements set forth in the model Actuarial Opinion and Memorandum Regulation of the National Association of Insurance Commissioners (NAIC). (ASOP No. [22][22] & ACG No. [4][4])
 >  
-> [2] An actuary who is appointed or retained in accordance with the provisions of law, regulation, or contract or other arrangement, as the designee to issue a statement of actuarial opinion. (ASOP No. [36][36])   
+> 2: An actuary who is appointed or retained in accordance with the provisions of law, regulation, or contract or other arrangement, as the designee to issue a statement of actuarial opinion. (ASOP No. [36][36])   
 >  
-> [3] Any individual who is appointed or retained in accordance with the requirements set forth in the model NAIC Actuarial Opinion and Memorandum Regulation. (ASOP No. [40][40])   
+> 3: Any individual who is appointed or retained in accordance with the requirements set forth in the model NAIC Actuarial Opinion and Memorandum Regulation. (ASOP No. [40][40])   
 >  
-> [4] Any individual who is appointed or retained in accordance with the requirements set forth by applicable law. (ASOP No. [22][22])
+> 4: Any individual who is appointed or retained in accordance with the requirements set forth by applicable law. (ASOP No. [22][22])
 
 ##### Appraisal:
 > An assessment of the value of an insurance business including, but not limited to, an actuarial appraisal. (ASOP No. [19][19])
@@ -214,9 +214,9 @@
 > Any resource that can generate revenue or reduce disbursement cash flows. (ASOP Nos. [7][7] and [22][22]) 
 
 ##### Asset Adequacy Analysis:
-> [1] An analysis of the adequacy of reserves and related items, in light of the assets supporting such reserves and related items, to meet the obligations of an insurer. (ACG No. [4][4])   
+> 1: An analysis of the adequacy of reserves and related items, in light of the assets supporting such reserves and related items, to meet the obligations of an insurer. (ACG No. [4][4])   
 >  
-> [2] An analysis of the adequacy of reserves and other liabilities being tested, in light of the assets supporting such reserves and other liabilities, as specified in the opinion. (ASOP No. [22][22])
+> 2: An analysis of the adequacy of reserves and other liabilities being tested, in light of the assets supporting such reserves and other liabilities, as specified in the opinion. (ASOP No. [22][22])
 
 ##### Asset Risk:
 > The risk that the amount or timing of items of cash flow connected with assets will differ from expectations or assumptions for reasons other than a change in investment rates of return. Asset risk includes delayed collectability, default, or other financial nonperformance. This has been commonly referred to in actuarial literature as the C-1 risk or credit risk. (ASOP Nos. [7][7] and [22][22])
@@ -225,7 +225,7 @@
 > The method used to determine the stated value of a particular asset. (ASOP No. [20][20])
 
 ##### Asset Valuation Method:
-> [1] A method used by the actuary to determine the actuarial value of assets. (ASOP No. [44][44])
+> 1: A method used by the actuary to determine the actuarial value of assets. (ASOP No. [44][44])
 
 ##### Assisted Living Facility:
 > A facility that provides residents some assistance with ADLs. Residents have apartments, rooms, or shared dwellings, and often share community living and dining areas with other residents. Usually meals, utilities, housekeeping, laundry, ambulation assistance, and personal care supervision is provided. Staff members may supervise the self-administration of medication. (ASOP No. [18][18])
@@ -234,9 +234,9 @@
 > The form in which a particular demographic assumption will be used or expressed. In some cases, the assumption will take the form of a table where the probability of the occurrence of a given event depends on parameters such as gender, age, service, or calendar year. In other cases, the assumption may be a point estimate, implying 100% probability of occurrence of a given event at the stated point. example of a point estimate assumption is an assumption that 100% of the population will retire at age 62. The assumption format may include different tables or point estimates for different segments of the covered population. (ASOP Nos. [13][13] and [35][35])
 
 ##### Assumption Universe:
-> [1] For each demographic assumption, a universe consisting of the possible options that the actuary might reasonably use for the specific assumption. For example, an assumption universe for a mortality assumption might reasonably include relevant published mortality tables and possible adjustments, such as projections of mortality improvement. For some pension plans, an assumption universe for a specific assumption might reasonably include a table or factors developed specifically for that plan. (ASOP Nos. [13][13] and [35][35])   
+> 1: For each demographic assumption, a universe consisting of the possible options that the actuary might reasonably use for the specific assumption. For example, an assumption universe for a mortality assumption might reasonably include relevant published mortality tables and possible adjustments, such as projections of mortality improvement. For some pension plans, an assumption universe for a specific assumption might reasonably include a table or factors developed specifically for that plan. (ASOP Nos. [13][13] and [35][35])   
 >  
-> [2] For each demographic assumption, a universe consisting of the possible options that the actuary might reasonably use for the specific assumption. For example, an assumption universe for a mortality assumption might reasonably include relevant published or proprietary mortality tables and possible adjustments, such as projections of mortality improvement. For some pension plans, an assumption universe for a specific assumption might reasonably include a table or factors developed specifically for that plan. (ASOP No. [27][27])
+> 2: For each demographic assumption, a universe consisting of the possible options that the actuary might reasonably use for the specific assumption. For example, an assumption universe for a mortality assumption might reasonably include relevant published or proprietary mortality tables and possible adjustments, such as projections of mortality improvement. For some pension plans, an assumption universe for a specific assumption might reasonably include a table or factors developed specifically for that plan. (ASOP No. [27][27])
 
 ##### Attained Age Actuarial Cost Method:
 > A method under which the excess of the actuarial present value of projected benefits over the actuarial accrued liability in respect of each individual included in an actuarial valuation is allocated on a level basis over the earnings or service of the individual between the valuation date and assumed exit. The portion of this actuarial present value, which is allocated to a valuation year, is called the normal cost. The actuarial accrued liability is determined using the unit credit actuarial cost method. (ASOP No. [4][4])
@@ -260,9 +260,9 @@
 > For each economic assumption, the narrowest range within which the actuary reasonably anticipates that the actual results, compounded over the measurement period, are more likely than not to fall. (ASOP No. [27][27])
 
 ##### Block of Business:
-> [1] All policies of a common coverage type (for example, major medical, preferred provider organization, or capitated managed care); demographic grouping (for example, size, age, or area, group, or individual policies); or other segmentation useful for estimating incurred claims for actuarial purposes. (ASOP No. [5][5])   
+> 1: All policies of a common coverage type (for example, major medical, preferred provider organization, or capitated managed care); demographic grouping (for example, size, age, or area, group, or individual policies); or other segmentation useful for estimating incurred claims for actuarial purposes. (ASOP No. [5][5])   
 >  
-> [2] All contracts of a common coverage type, demographic grouping, contract type or other segmentation useful for estimating liabilities for actuarial purposes, or useful for a risk- assuming entity for evaluating its business. (ASOP No. [42][42])
+> 2: All contracts of a common coverage type, demographic grouping, contract type or other segmentation useful for estimating liabilities for actuarial purposes, or useful for a risk- assuming entity for evaluating its business. (ASOP No. [42][42])
 
 ##### Book Value:
 > The value of an asset or assets, as included in a financial statement or other financial reporting context. (ASOP No. [20][20])
@@ -278,9 +278,9 @@ Capitation Arrangement― An arrangement that calls for periodic payments to a p
 > Any entity subject to state regulation that offers health benefit plan coverage for sale. Carrier includes an insurance company, a prepaid hospital or medical service plan, a fraternal benefit society, a health maintenance organization, and any other entity offering for sale a plan of health insurance or health benefits. (ASOP No. [26][26])
 
 ##### Carve-Outs:
-> [1] Carve-outs are designated services provided by specified providers, such as prescription drugs or dental, or condition-specific services such as cancer, mental health, or substance abuse treatment. Carve-outs are often provided by a separate entity specializing in that type of designated service. (ASOP No. [42][42]);   
+> 1: Carve-outs are designated services provided by specified providers, such as prescription drugs or dental, or condition-specific services such as cancer, mental health, or substance abuse treatment. Carve-outs are often provided by a separate entity specializing in that type of designated service. (ASOP No. [42][42]);   
 >  
-> [2] A medical service or condition not covered by the program under review or covered under a different reimbursement arrangement, such as a capitation. A common carve-out is mental health services. (ASOP No. [45][45])
+> 2: A medical service or condition not covered by the program under review or covered under a different reimbursement arrangement, such as a capitation. A common carve-out is mental health services. (ASOP No. [45][45])
 
 ##### Cash and Investment Balance:
 > The value of cash, cash equivalents, and marketable securities of a CCRC (historically referred to as cash balance by CCRC practitioners). This excludes the value of the physical property assets of the CCRC. (ASOP No. [3][3])
@@ -346,9 +346,9 @@ Capitation Arrangement― An arrangement that calls for periodic payments to a p
 > An individual who is not currently a participant but who may reasonably be expected to become a participant through his or her future action. (ASOP No. [6][6])
 
 ##### Continuing Care Retirement Community (CCRC):
-> [1] A residential facility that provides stated housekeeping, social, and health care services in return for some combination of an advance fee, periodic fees, and additional fees. (ASOP No. [3][3])   
+> 1: A residential facility that provides stated housekeeping, social, and health care services in return for some combination of an advance fee, periodic fees, and additional fees. (ASOP No. [3][3])   
 >  
-> [2] A residential facility for retired people that provides stated housekeeping, social, and health care services in return for some combination of an advance fee, periodic fees, and additional fees. (ASOP No. [18][18])
+> 2: A residential facility for retired people that provides stated housekeeping, social, and health care services in return for some combination of an advance fee, periodic fees, and additional fees. (ASOP No. [18][18])
 
 ##### Contract Period:
 > The time period for which a contract is effective. (ASOP No. [42][42])
@@ -363,7 +363,7 @@ Capitation Arrangement― An arrangement that calls for periodic payments to a p
 > A payment made by a participant to support a retiree group benefit plan. While plan sponsors and employers will contribute funds to subsidize retiree group benefits, in this standard, contributions refer to periodic payments required from participants for their plan coverage. (ASOP No. [6][6])
 
 ##### Contribution Allocation Procedure:
-> [1] A procedure that uses an actuarial cost method, and may include an asset valuation method, an amortization method, and an output smoothing method, to determine the actuarially determined contribution for a plan. The procedure may produce a single value, such as normal cost plus an amortization payment of the unfunded actuarial accrued liability, or a range of values, such as the range from the ERISA minimum required contribution to the maximum tax- deductible amount. (ASOP No. [4][4])
+> 1: A procedure that uses an actuarial cost method, and may include an asset valuation method, an amortization method, and an output smoothing method, to determine the actuarially determined contribution for a plan. The procedure may produce a single value, such as normal cost plus an amortization payment of the unfunded actuarial accrued liability, or a range of values, such as the range from the ERISA minimum required contribution to the maximum tax- deductible amount. (ASOP No. [4][4])
 
 ##### Contribution Principle:
 > The concept that aggregate divisible surplus is allocated to policies to reflect the proportion that the policies, as part of their dividend factor classes, are considered to have contributed to divisible surplus. (ASOP No. [15][15])
@@ -375,14 +375,14 @@ Capitation Arrangement― An arrangement that calls for periodic payments to a p
 > A procedure that uses an actuarial cost method and may include an asset valuation method and an amortization method, to determine the periodic contribution for a plan (for example,theproceduretodeterminethenetperiodicpensioncostunderaccountingstandards). (ASOP No. [4][4])
 
 ##### Cost of Capital:
-> [1] The rate of return that capital could earn in an alternative investment of equivalent risk. The source of the capital may be internal or external. (ASOP No. [26][26])   
+> 1: The rate of return that capital could earn in an alternative investment of equivalent risk. The source of the capital may be internal or external. (ASOP No. [26][26])   
 >  
-> [2] The rate of return that capital could be expected to earn in alternative investments of equivalent risk; also known as opportunity cost. (ASOP No. [30][30])
+> 2: The rate of return that capital could be expected to earn in alternative investments of equivalent risk; also known as opportunity cost. (ASOP No. [30][30])
 
 ##### Cost(s):
-> [1]All benefit payments and expenses associated with issuing and maintaining a company’s insurance policies and contracts, with no provision for profit. (Ex. Draft proposed revision of ASOP 10 Methods and Assumptions for Use in life Insurance Company Financial Statements Prepared in Accordance with US GAAP)   
+> 1: All benefit payments and expenses associated with issuing and maintaining a company’s insurance policies and contracts, with no provision for profit. (Ex. Draft proposed revision of ASOP 10 Methods and Assumptions for Use in life Insurance Company Financial Statements Prepared in Accordance with US GAAP)   
 >  
-> [2] The amount assigned to a period using a cost allocation procedure for purposes other than funding. This may be a function of plan obligations, normal cost, expenses, and assets. In many situations, cost is determined for accounting purposes. (2nd Ex. Draft proposed revision of ASOP No. 4, Measuring Pension Obligations and Determining Pension Plan Costs or Contributions
+> 2: The amount assigned to a period using a cost allocation procedure for purposes other than funding. This may be a function of plan obligations, normal cost, expenses, and assets. In many situations, cost is determined for accounting purposes. (2nd Ex. Draft proposed revision of ASOP No. 4, Measuring Pension Obligations and Determining Pension Plan Costs or Contributions
 
 ##### Cost Allocation Procedure:
 > A procedure that uses an actuarial cost method to determine the periodic cost for a plan (for example, the procedure to determine the net periodic pension cost under accounting standards). (2nd Ex. Draft proposed revision of ASOP 4 Measuring Pension Obligations and Determining Pension Plan Costs or Contributions)
@@ -417,11 +417,11 @@ Capitation Arrangement― An arrangement that calls for periodic payments to a p
 > Care to help a person perform ADLs and other routine activities; also known as personal care. It is usually provided by people without professional medical skills. It is less intensive or complicated than skilled or intermediate nursing care, and can be provided in many settings, including nursing homes, assisted living facilities, adult day care centers, or at home. (ASOP No. [18][18])
 
 ##### Data:
-> [1] Statistical or other information that is generally numerical in nature or susceptible to quantification. (ASOP Nos. [17][17] and [36][36])   
+> 1: Statistical or other information that is generally numerical in nature or susceptible to quantification. (ASOP Nos. [17][17] and [36][36])   
 >  
-> [2] For purposes of this standard, the term refers to numerical, census, or classification information and not to general or qualitative information. Assumptions are not data per se, but data are commonly used in the development of actuarial assumptions. (ASOP No. [23][23])   
+> 2: For purposes of this standard, the term refers to numerical, census, or classification information and not to general or qualitative information. Assumptions are not data per se, but data are commonly used in the development of actuarial assumptions. (ASOP No. [23][23])   
 >  
-> [3] For purposes of this standard, the term refers to numerical, census, or classification information and not to general or qualitative information. Assumptions are not data, but data are commonly used in the develop- ment of actuarial assumptions. (ASOP No. [23][23])
+> 3: For purposes of this standard, the term refers to numerical, census, or classification information and not to general or qualitative information. Assumptions are not data, but data are commonly used in the develop- ment of actuarial assumptions. (ASOP No. [23][23])
 
 ##### Data Element:
 > An item of information, such as date of birth or risk classification. (ASOP No. [23][23]) 
@@ -614,19 +614,19 @@ Examples of experience factors include rates of mortality, expense, investment i
 ##### Full Credibility:
 > [1]The level at which a particular body of data is assigned full predictive value based on a selected confidence interval. (ASOP No. [40][40]);   
 >  
-> [2] The level at which the subject experience is assigned full predictive value, often based on a selected confidence interval. (ASOP No. [25][25])
+> 2: The level at which the subject experience is assigned full predictive value, often based on a selected confidence interval. (ASOP No. [25][25])
 
 ##### Full-Value Reserve:
 > An un-discounted provision for the payment of outstanding losses and/or loss adjustment expenses in the anticipated future settlement amounts. (ASOP No. [20][20])
 
 ##### Fully Funded:
-> [1] A phrase that indicates that a particular measure of plan assets equals or exceeds a particular measure of plan liabilities. Any other phrase that conveys a similar message must meet the requirements in this standard for the use of the phrase fully funded. Disclosure requirements for actuarial work products that include this phrase or any phrase that conveys a similar message are in section 4.1(p). (Ex. Draft proposed revision to ASOP No. 4, Measuring Pension Obligations and Determining Pension Plan Costs or Contributions)
+> 1: A phrase that indicates that a particular measure of plan assets equals or exceeds a particular measure of plan liabilities. Any other phrase that conveys a similar message must meet the requirements in this standard for the use of the phrase fully funded. Disclosure requirements for actuarial work products that include this phrase or any phrase that conveys a similar message are in section 4.1(p). (Ex. Draft proposed revision to ASOP No. 4, Measuring Pension Obligations and Determining Pension Plan Costs or Contributions)
 
 ##### Functional Impairment:
 > The inability to perform one or more ADLs. (ASOP No. [18][18])
 
 ##### Funded Status:
-> [1] Any comparison of a particular measure of plan assets to a particular measure of plan obligations. (ASOP No. [4][4])
+> 1: Any comparison of a particular measure of plan assets to a particular measure of plan obligations. (ASOP No. [4][4])
 
 ##### GAAP Net Premium:
 > The portion of gross premium that provides for costs. ((Ex. Draft proposed revision of ASOP No. 10, Methods and Assumptions for Use in Life Insurance Company Financial Statements Prepared in Accordance with US GAAP)
@@ -656,15 +656,15 @@ Examples of experience factors include rates of mortality, expense, investment i
 > A contract which provides that the insured has the right to continue the insurance in force for a specified period by the timely payment of premiums, and that the insurer may not unilaterally change the contract during that specified period, except that premium rates may be revised by the insurer on a class basis. (ASOP No. [18][18])
 
 ##### Health Benefit Plan:
-> [1] Any hospital or medical policy or certificate; medical expense insurance; or subscriber contract or contract of insurance provided by a prepaid hospital, medical service plan, or health maintenance organization. (ASOP No. [26][26])   
+> 1: Any hospital or medical policy or certificate; medical expense insurance; or subscriber contract or contract of insurance provided by a prepaid hospital, medical service plan, or health maintenance organization. (ASOP No. [26][26])   
 >  
-> [2] A contract providing medical, prescription drug, dental, vision, disability income, accidental death and dismemberment, long-term care, or other health-related benefits, whether on a reimbursement, indemnity, or service benefit basis, regardless of the form of the risk-bearing organization, including benefit plans provided by self-insured or governmental plan sponsors. (ASOP No. [5][5])   
+> 2: A contract providing medical, prescription drug, dental, vision, disability income, accidental death and dismemberment, long-term care, or other health-related benefits, whether on a reimbursement, indemnity, or service benefit basis, regardless of the form of the risk-bearing organization, including benefit plans provided by self-insured or governmental plan sponsors. (ASOP No. [5][5])   
 >  
-> [4] A contract providing medical, dental, vision, disability income, accidental death and dismemberment, long-term care, and similar benefits, whether on a reimbursement, indemnity, or service benefit basis, regardless of the form of the risk-bearing organization, including benefit plans provided by self-insured plan sponsors. (ASOP Nos. [7][7] and [22][22])   
+> 4: A contract providing medical, dental, vision, disability income, accidental death and dismemberment, long-term care, and similar benefits, whether on a reimbursement, indemnity, or service benefit basis, regardless of the form of the risk-bearing organization, including benefit plans provided by self-insured plan sponsors. (ASOP Nos. [7][7] and [22][22])   
 >  
-> [5] A contract or other financial arrangement providing medical, prescription drug, dental, vision, disability income, accidental death and dismemberment, long-term care, or other health-related benefits, whether on a reimbursement, indemnity, or service benefit basis, regardless of the form of the risk-assuming entity, including health benefit plans provided by self-insured or governmental plan sponsors. (ASOP No. [42][42] and Ex. Draft proposed revision of ASOP No. 28, Statements of Actuarial Opinion Regarding Health Insurance Liabilities)   
+> 5: A contract or other financial arrangement providing medical, prescription drug, dental, vision, disability income, accidental death and dismemberment, long-term care, or other health-related benefits, whether on a reimbursement, indemnity, or service benefit basis, regardless of the form of the risk-assuming entity, including health benefit plans provided by self-insured or governmental plan sponsors. (ASOP No. [42][42] and Ex. Draft proposed revision of ASOP No. 28, Statements of Actuarial Opinion Regarding Health Insurance Liabilities)   
 >  
-> [6] A contract or other financial arrangement providing hospital, medical, prescription drug, dental, vision, disability income, accidental death and dismemberment, long-term care, or other health-related benefits, whether on a reimbursement, indemnity, or service benefit basis, irrespective of the type of health plan entity that provides the benefits. (ASOP No. [8][8])
+> 6: A contract or other financial arrangement providing hospital, medical, prescription drug, dental, vision, disability income, accidental death and dismemberment, long-term care, or other health-related benefits, whether on a reimbursement, indemnity, or service benefit basis, irrespective of the type of health plan entity that provides the benefits. (ASOP No. [8][8])
 
 ##### Health Care Guarantee:
 > A clause in a residency agreement guaranteeing access to health care and defining the type of health care services to be provided to the resident. These health care services may be offered with or without additional charges to the periodic fees. (ASOP No. [3][3])
@@ -709,7 +709,7 @@ Examples of experience factors include rates of mortality, expense, investment i
 > An actuary who is appointed in accordance with the requirements set forth in the Model. (ASOP No. [24][24])
 
 ##### Immediate Gain Actuarial Cost Method:
->  [1] An actuarial cost method under which actuarial gains and losses are included as part of the unfunded actuarial accrued liability of the pension plan, rather than as part of the normal cost of the plan. (ASOP No. [4][4])
+>  1: An actuarial cost method under which actuarial gains and losses are included as part of the unfunded actuarial accrued liability of the pension plan, rather than as part of the normal cost of the plan. (ASOP No. [4][4])
 
 ##### Impairment:
 > A health factor or condition that tends to increase an insured’s probability of death. (ASOP No. [48][48])
@@ -775,9 +775,9 @@ Examples of experience factors include rates of mortality, expense, investment i
 > An individual whose life is covered by a life insurance policy. (ASOP No. [48][48])
 
 ##### Insurer:
-> [1] An entity that accepts the risk of financial losses or, for a specified time period, guarantees stated benefits upon the occurrence of specific contingent events, in exchange for a monetary consideration. (ASOP Nos. [7][7], [18][18], and [22][22])   
+> 1: An entity that accepts the risk of financial losses or, for a specified time period, guarantees stated benefits upon the occurrence of specific contingent events, in exchange for a monetary consideration. (ASOP Nos. [7][7], [18][18], and [22][22])   
 >  
-> [2] An entity authorized to write accident and health contracts under the laws of any state and which files its statutory financial statements using the Health Annual Statement Blank. (Ex. Draft proposed revision of ASOP No. 28, Statements of Actuarial Opinion Regarding Health Insurance Liabilities)
+> 2: An entity authorized to write accident and health contracts under the laws of any state and which files its statutory financial statements using the Health Annual Statement Blank. (Ex. Draft proposed revision of ASOP No. 28, Statements of Actuarial Opinion Regarding Health Insurance Liabilities)
 
 ##### Intended Audience:
 > [1]The persons to whom an appraisal report is directed and with whom the actuary, after discussion with the principal, intends to communicate. Unless otherwise specifically agreed, the principal is always a member of the intended audience. In addition, other persons or organizations, such as investors or regulators, may be designated by the principal, with consent of the actuary, as members of the intended audience. (ASOP No. [19][19])   
@@ -800,9 +800,9 @@ Examples of experience factors include rates of mortality, expense, investment i
 > The income associated with the investment of insurance cash flows. (This is sometimes referred to as investment income on policyholder-supplied funds.) (ASOP No. [30][30])
 
 ##### Investment Risk:
-> [1] Uncertainty surrounding the realization of a specified investment income stream. (ASOP No. [20][20])   
+> 1: Uncertainty surrounding the realization of a specified investment income stream. (ASOP No. [20][20])   
 >  
-> [2] The extent to which the level or timing of actual investment proceeds is likely to differ from what is expected. (ASOP No. [30][30])
+> 2: The extent to which the level or timing of actual investment proceeds is likely to differ from what is expected. (ASOP No. [30][30])
 
 ##### Investment-Rate-of-Return Risk:
 > The risk that investment rates of return will differ from expectations or assumptions, causing a change in the amount or timing of asset, policy, or other liability cash flows. This has been commonly referred to in actuarial literature as the C-3 risk or asset/liability mismatch risk. (ASOP Nos. [7][7] and [22][22])
@@ -862,9 +862,9 @@ Examples of experience factors include rates of mortality, expense, investment i
 > The cost that is associated with an event that has taken place and that is subject to coverage. It is also known as “claim amount.” The term “loss” may include loss adjustment expenses as appropriate (ASOP No.)
 
 ##### Loss Adjustment Expenses (LAE):
-> [1] All expenses incurred in investigating and settling claims. (ASOP No. [29][29])   
+> 1: All expenses incurred in investigating and settling claims. (ASOP No. [29][29])   
 >  
-> [2] The costs of administering, determining coverage for, settling, or defending claims even if it is ultimately determined that the claim is invalid. It is also known as “claim adjustment expense.” (ASOP No. [36][36])
+> 2: The costs of administering, determining coverage for, settling, or defending claims even if it is ultimately determined that the claim is invalid. It is also known as “claim adjustment expense.” (ASOP No. [36][36])
 
 ##### Marital Property:
 > Assets of the marital estate as determined under the laws and regulations of the applicable jurisdiction. (ASOP No. [34][34])
@@ -883,14 +883,14 @@ market participant would use in assessing the amount the participant would pay t
 > Uncertainty regarding the future market value of an asset. (ASOP No. [20][20])
 
 ##### Market Value:
-> [1] The price for which an asset could be sold at a particular date. (ASOP No. [20][20])   
+> 1: The price for which an asset could be sold at a particular date. (ASOP No. [20][20])   
 >  
-> [2] The price that would be received to sell an asset in an orderly transaction between market participants at the measurement date (sometimes referred to as fair value). (ASOP No. [44][44])
+> 2: The price that would be received to sell an asset in an orderly transaction between market participants at the measurement date (sometimes referred to as fair value). (ASOP No. [44][44])
 
 ##### Material:
-> [1] An item is material if it has an impact on the affected actuarial opinion, which is significant to the interested parties. (ASOP No. [17][17])   
+> 1: An item is material if it has an impact on the affected actuarial opinion, which is significant to the interested parties. (ASOP No. [17][17])   
 >  
-> [2] Resulting in an impact, significant to the interested parties, on the affected actuarial incurred claim estimate. (ASOP No. [5][5])
+> 2: Resulting in an impact, significant to the interested parties, on the affected actuarial incurred claim estimate. (ASOP No. [5][5])
 
 ##### Materiality:
 > “Materiality” is a consideration in many aspects of the actuary’s work. An item or a combination of related items is material if its omission or misstatement could influence a decision of an intended user. When evaluating materiality, the actuary should consider the purposes of the actuary’s work and how the actuary anticipates it will be used by intended users. The actuary should evaluate materiality of the various aspects of the task using professional judgment and any applicable law (statutes, regulations, and other legally binding authority), standard, or guideline. In some circumstances, materiality will be determined by an external user, such as an auditor, based on information not known to the actuary. The guidance in ASOPs need not be applied to immaterial items. (ASOP No. [1][1])
@@ -899,22 +899,22 @@ market participant would use in assessing the amount the participant would pay t
 > The average life expectancy based on the assumed survival curve. (ASOP No. [48][48])
 
 ##### Measurement Date:
-> [1] The date as of which the value of the pension obligation is determined (sometimes referred to as the valuation date). (ASOP Nos. [13][13], [27][27] and [35][35]);   
+> 1: The date as of which the value of the pension obligation is determined (sometimes referred to as the valuation date). (ASOP Nos. [13][13], [27][27] and [35][35]);   
 >  
-> [2] The date as of which the actuarial present value is determined. The measurement date may be different from the allocation date. (ASOP No. [34][34])   
+> 2: The date as of which the actuarial present value is determined. The measurement date may be different from the allocation date. (ASOP No. [34][34])   
 >  
-> [3] The date as of which the retiree group benefit obligation is determined (sometimes referred to as the valuation date). (ASOP No. [6][6]);   
+> 3: The date as of which the retiree group benefit obligation is determined (sometimes referred to as the valuation date). (ASOP No. [6][6]);   
 >  
-> [4] The date as of which the values of the pension obligations and, if applicable, assets are determined (sometimes referred to as the valuation date). (ASOP No. [4][4]);   
+> 4: The date as of which the values of the pension obligations and, if applicable, assets are determined (sometimes referred to as the valuation date). (ASOP No. [4][4]);   
 >  
-> [5] The date as of which the actuarial value of assets is determined (sometimes referred to as the valuation date). (ASOP No. [44][44])
+> 5: The date as of which the actuarial value of assets is determined (sometimes referred to as the valuation date). (ASOP No. [44][44])
 
 ##### Measurement Period:
-> [1] The period subsequent to the measurement date during which a particular economic assumption will apply in a given measurement. (ASOP No. [27][27]);   
+> 1: The period subsequent to the measurement date during which a particular economic assumption will apply in a given measurement. (ASOP No. [27][27]);   
 >  
-> [2] The period subsequent to the measurement date during which a particular demographic assumption will apply in a given measurement. (ASOP Nos. [13][13] and [35][35]);   
+> 2: The period subsequent to the measurement date during which a particular demographic assumption will apply in a given measurement. (ASOP Nos. [13][13] and [35][35]);   
 >  
-> [3] The period subsequent to the measurement date during which the chosen assumptions or other model components apply. (ASOP No. [6][6])
+> 3: The period subsequent to the measurement date during which the chosen assumptions or other model components apply. (ASOP No. [6][6])
 
 ##### Median Life Expectancy:
 > The point in time, at which, based on the assumed survival curve, there is a 50% probability that the person will still be alive. (ASOP No. [48][48])
@@ -938,11 +938,11 @@ market participant would use in assessing the amount the participant would pay t
 > A systematic procedure for estimating unpaid claims. (ASOP No. [43][43])
 
 ##### Model:
-> [1] An information structure, such as a set of mathematical equations, logic, or algorithms, which is used to represent the behavior of specified phenomena. (ASOP No. [38][38])   
+> 1: An information structure, such as a set of mathematical equations, logic, or algorithms, which is used to represent the behavior of specified phenomena. (ASOP No. [38][38])   
 >  
-> [2] A representation (including actuarial models), usually mathematical, of a specified phenomenon or behavior. A model typically includes mathematical equations, logic, algorithms, and associated data. (2nd Exp. draft, Using Models Outside the Actuary’s Expertise (for All Practice Areas)   
+> 2: A representation (including actuarial models), usually mathematical, of a specified phenomenon or behavior. A model typically includes mathematical equations, logic, algorithms, and associated data. (2nd Exp. draft, Using Models Outside the Actuary’s Expertise (for All Practice Areas)   
 >  
-> [3] A mathematical or empirical representation of a specified phenomenon. (ASOP No. [43][43])
+> 3: A mathematical or empirical representation of a specified phenomenon. (ASOP No. [43][43])
 
 ##### Model Risk:
 > The risk that the methods are not appropriate to the circumstances or the models are not representative of the specified phenomenon. (ASOP No. [43][43])
@@ -993,7 +993,7 @@ market participant would use in assessing the amount the participant would pay t
 > The structure by which the insurer determines nonguaranteed elements. This includes the assignment of policies to experience factor classes, the method of allocating income and costs, and the structure of the formulas or other methods of using experience factors. For participating policies this would be the dividend framework defined in ASOP No. 15. For life policies within the scope of ASOP No. 1, the nonguaranteed element framework would include the concepts of policy class, determination policy, and anticipated experience factors. (ASOP No. [24][24])
 
 ##### Nonproportional Feature:
-> [1] A feature of a reinsurance agreement that makes the reinsurer’s financial experience nonproportional to that of the ceding entity. Examples of such nonproportional features include aggregate claim limits, deductibles, limited coverage periods, experience refunds, profit sharing provisions, separate but related agreements, i.e., where the results of one agreement affect the operation of the other, and termination provisions. (ASOP No. [11][11])
+> 1: A feature of a reinsurance agreement that makes the reinsurer’s financial experience nonproportional to that of the ceding entity. Examples of such nonproportional features include aggregate claim limits, deductibles, limited coverage periods, experience refunds, profit sharing provisions, separate but related agreements, i.e., where the results of one agreement affect the operation of the other, and termination provisions. (ASOP No. [11][11])
 
 ##### Non-Resident:
 > A person living in the CCRC who has signed an agreement without a health care guarantee and without a refund guarantee. Non-residents normally pay for all health care services received on a fee for service basis. (ASOP No. [3][3])
@@ -1035,9 +1035,9 @@ market participant would use in assessing the amount the participant would pay t
 > Cash flows not specifically associated with asset or policy cash flows. Examples are corporate expenses, payables, surplus notes, shareholder dividends, or balance sheet items that result from litigation. (ASOP Nos. [7][7] and [22][22])
 
 ##### Other User:
-> [1] Any user of an appraisal report who is not a principal or member of the intended audience. (ASOP No. [19][19])   
+> 1: Any user of an appraisal report who is not a principal or member of the intended audience. (ASOP No. [19][19])   
 >  
-> [2] Any recipient of an actuarial communication who is not an intended user. (ASOP No. [41][41])
+> 2: Any recipient of an actuarial communication who is not an intended user. (ASOP No. [41][41])
 
 ##### Output Smoothing Method:
 > A method used by the actuary to adjust the results of a contribution allocation procedure to reduce volatility. (ASOP No. [4][4])
@@ -1046,9 +1046,9 @@ market participant would use in assessing the amount the participant would pay t
 >  The risk that the parameters used in the methods or models are not representative of future outcomes. (ASOP No. [43][43])
 
 ##### Participant:
-> [1] An individual who (a) is currently receiving benefit coverage under a retiree group benefit plan, or (b) is reasonably expected to receive benefit coverage under a retiree group benefits program upon satisfying the plan’s eligibility and participation requirements. (ASOP No. [6][6]);   
+> 1: An individual who (a) is currently receiving benefit coverage under a retiree group benefit plan, or (b) is reasonably expected to receive benefit coverage under a retiree group benefits program upon satisfying the plan’s eligibility and participation requirements. (ASOP No. [6][6]);   
 >  
-> [2] An individual who satisfies the requirements for participation in the plan. (ASOP No. [4][4])
+> 2: An individual who satisfies the requirements for participation in the plan. (ASOP No. [4][4])
 
 ##### Participating Policy:
 > An insurance or annuity policy under which the policyholder is entitled to participate in the distributable surplus of the company. (ASOP No. [10][10])
@@ -1078,11 +1078,11 @@ market participant would use in assessing the amount the participant would pay t
 > Individual participating policies and contracts for life insurance, disability insurance and annuities, and group certificates for these same types of business that operate in substantially the same manner as individual participating policies and contracts. (ASOP No. [15][15])
 
 ##### Policy:
-> [1] Unless otherwise specified, the term policy (and its plural form, policies) in this standard includes both insurance policy and annuity contract. In some demutualizations it may also include supplementary contracts. (ASOP No. [37][37])   
+> 1: Unless otherwise specified, the term policy (and its plural form, policies) in this standard includes both insurance policy and annuity contract. In some demutualizations it may also include supplementary contracts. (ASOP No. [37][37])   
 >  
-> [2] Any life insurance policy subject to the Model. (ASOP No. [40][40])   
+> 2: Any life insurance policy subject to the Model. (ASOP No. [40][40])   
 >  
-> [3] Except when used in the term determination policy, policy refers to individual life insurance policies and annuity contracts and group life insurance and annuity certificates with nonguaranteed charges or benefits that operate in substantially the same manner as individual life insurance policies and individual annuity contracts with respect to nonguaranteed charges or benefits. (ASOP No. [2][2])
+> 3: Except when used in the term determination policy, policy refers to individual life insurance policies and annuity contracts and group life insurance and annuity certificates with nonguaranteed charges or benefits that operate in substantially the same manner as individual life insurance policies and individual annuity contracts with respect to nonguaranteed charges or benefits. (ASOP No. [2][2])
 
 ##### Policy Benefit Liability:
 > An accrued obligation to policyholders that relates to the payment of future costs and amounts accrued for unearned revenue. The amount accrued for unearned revenue may or may not be shown separately in the company’s financial statements, but is, in any case, included in the policy benefit liability for purposes of this standard. (Ex. Draft proposed revision of ASOP No. 10, Methods and Assumptions for Use in Life Insurance Company Financial Statements Prepared in Accordance with US GAAP)
@@ -1097,9 +1097,9 @@ market participant would use in assessing the amount the participant would pay t
 > A group of policies considered together for purposes of determining a nonguaranteed charge or benefit. (ASOP No. [2][2])
 
 ##### Policy Factor:
-> [1] Financial components of a policy based on the guarantees or actuarial components underlying the policy. Examples of policy factors include cash values, reserves and their associated net premiums, gross premiums, policy loan interest rates, and the rates of interest, mortality, and morbidity used in calculating cash values or reserves. (ASOP No. [15][15])   
+> 1: Financial components of a policy based on the guarantees or actuarial components underlying the policy. Examples of policy factors include cash values, reserves and their associated net premiums, gross premiums, policy loan interest rates, and the rates of interest, mortality, and morbidity used in calculating cash values or reserves. (ASOP No. [15][15])   
 >  
-> [2] A premium, value, charge, or benefit that limits a nonguaranteed charge or benefit. Policy factors are based on the guarantees defined in the policy. Examples of policy factors include minimum cash values, minimum mortality charges, maximum gross premiums, and maximum policy loan interest rates. (ASOP No. [2][2])
+> 2: A premium, value, charge, or benefit that limits a nonguaranteed charge or benefit. Policy factors are based on the guarantees defined in the policy. Examples of policy factors include minimum cash values, minimum mortality charges, maximum gross premiums, and maximum policy loan interest rates. (ASOP No. [2][2])
 
 ##### Policyholder Dividends:
 > Nonguaranteed returns of premium or distributions of surplus. (ASOP No. [29][29]) 
@@ -1111,9 +1111,9 @@ market participant would use in assessing the amount the participant would pay t
 > Interest rate on an investment portfolio, calculated relative to current book values or on other asset valuation bases. (ASOP No. [20][20])
 
 ##### Practical:
-> [1] Realistic in approach, during the time of the assignment, given the purpose and nature of the assignment and any constraints, including cost and time considerations. (ASOP No. [23][23])   
+> 1: Realistic in approach, during the time of the assignment, given the purpose and nature of the assignment and any constraints, including cost and time considerations. (ASOP No. [23][23])   
 >  
-> [2] Realistic in approach, given the purpose, nature, and scope of the assignment and any constraints, including cost and time considerations. (ASOP No. [12][12])
+> 2: Realistic in approach, given the purpose, nature, and scope of the assignment and any constraints, including cost and time considerations. (ASOP No. [12][12])
 
 ##### Premium Deficiency:
 > A condition that exists when the net GAAP liability plus the prevent value of future gross premiums is less than the present value of future benefits and expenses using current best estimate assumptions. (Ex. Draft proposed revision of ASOP No. 10, Methods and Assumptions for Use in Life Insurance Company Financial Statements Prepared in Accordance with US GAAP)
@@ -1128,31 +1128,31 @@ market participant would use in assessing the amount the participant would pay t
 > A specific asset valuation method that is mandated by law, regulation, or other binding authority. For purposes of this standard, the plan sponsor would be considered a binding authority to the extent that law, regulation, or accounting standards give the plan sponsor responsibility for selecting such an asset valuation method. (ASOP No. [44][44])
 
 ##### Prescribed Assumption:
-> [1] A specific assumption that is mandated or that is selected from a specified range that is deemed to be acceptable, by law, regulation, or other binding authority. (ASOP No. [21][21])   
+> 1: A specific assumption that is mandated or that is selected from a specified range that is deemed to be acceptable, by law, regulation, or other binding authority. (ASOP No. [21][21])   
 >  
-> [2] A specific assumption that is mandated or that is selected from a specified range or set of assumptions that is deemed to be acceptable by law, regulation, or other binding authority. (ASOP Nos. [13][13] and [35][35]) 
+> 2: A specific assumption that is mandated or that is selected from a specified range or set of assumptions that is deemed to be acceptable by law, regulation, or other binding authority. (ASOP Nos. [13][13] and [35][35]) 
 
 ##### Prescribed Assumption or Method Set by Another Party:
 > A specific assumption or method that is selected by another party, to the extent that law, regulation, or accounting standards gives the other party responsibility for selecting such an assumption or method. For this purpose, an assumption or method selected by a governmental entity for a plan that such governmental entity or a political subdivision of that entity directly or indirectly sponsors is deemed to be a prescribed assumption or method set by another party. (ASOP Nos. 4 and 27)
 
 ##### Prescribed Assumption or Method Set by Law:
-> [1] A specific assumption or method that is mandated or that is selected from a specified range or set of assumptions or methods that is deemed to be acceptable ay applicable law (statutes, regulations, and other legally binding authority.) For this purpose, an assumption or method selected by a governmental entity for a plan that such governmental entity or a political subdivision of that entity directly or indirectly sponsors is a prescribed assumption or method set by law. (ASOP No. [27][27])   
+> 1: A specific assumption or method that is mandated or that is selected from a specified range or set of assumptions or methods that is deemed to be acceptable ay applicable law (statutes, regulations, and other legally binding authority.) For this purpose, an assumption or method selected by a governmental entity for a plan that such governmental entity or a political subdivision of that entity directly or indirectly sponsors is a prescribed assumption or method set by law. (ASOP No. [27][27])   
 >  
-> [2] A specific assumption or method that is mandated or that is selected from a specified range or set of assumptions or methods that is deemed to be acceptable ay applicable law (statutes, regulations, and other legally binding authority). For this purpose, as assumption or method set by a governmental entity for a retiree group benefits program that such governmental entity or a political subdivision of that entity directly or indirectly sponsors is not deemed to be a prescribed assumption or method set by law. (ASOP No. [4][4])
+> 2: A specific assumption or method that is mandated or that is selected from a specified range or set of assumptions or methods that is deemed to be acceptable ay applicable law (statutes, regulations, and other legally binding authority). For this purpose, as assumption or method set by a governmental entity for a retiree group benefits program that such governmental entity or a political subdivision of that entity directly or indirectly sponsors is not deemed to be a prescribed assumption or method set by law. (ASOP No. [4][4])
 
 ##### Present Value:
-> [1] The value on a given date of a future payment or series of future payments, discounted to reflect the time value of money. (ASOP No. [20][20])   
+> 1: The value on a given date of a future payment or series of future payments, discounted to reflect the time value of money. (ASOP No. [20][20])   
 >  
-> [2] The value at a point in time of cash flows at other points in time, calculated at selected interest rates. It is also known as “discounted present value” or “discounted value.” (ASOP No. [36][36])
+> 2: The value at a point in time of cash flows at other points in time, calculated at selected interest rates. It is also known as “discounted present value” or “discounted value.” (ASOP No. [36][36])
 
 ##### Principal:
-> [1] A client or employer of the actuary. (ASOP Nos. 1, 17 and 44)   
+> 1: A client or employer of the actuary. (ASOP Nos. 1, 17 and 44)   
 >  
-> [2] A client or employer of the actuary. (ASOP No. [41][41])   
+> 2: A client or employer of the actuary. (ASOP No. [41][41])   
 >  
-> [3] The actuary’s client or employer. (ASOP No. [19][19])   
+> 3: The actuary’s client or employer. (ASOP No. [19][19])   
 >  
-> [4] The actuary’s client or employer. In situations where the actuary has both a client and an employer, as is common for consulting actuaries, the facts and circumstances will determine whether the client or the employer (or both) is the principal with respect to any portion of this standard. (ASOP No. [43][43])
+> 4: The actuary’s client or employer. In situations where the actuary has both a client and an employer, as is common for consulting actuaries, the facts and circumstances will determine whether the client or the employer (or both) is the principal with respect to any portion of this standard. (ASOP No. [43][43])
 
 ##### Process Risk:
 > The risk associated with the projection of future contingencies, that are inherently variable, even when the parameters are known with certainty. (ASOP No. [43][43])
@@ -1161,9 +1161,9 @@ market participant would use in assessing the amount the participant would pay t
 > The rates of change in a group’s compensation attributable to the change in the real value of goods or services per unit of work. (ASOP No. [27][27])
 
 ##### Program:
-> [1] A system for collecting income, maintaining trust funds, and paying benefits as prescribed by law or regulation. (ASOP No. [32][32])   
+> 1: A system for collecting income, maintaining trust funds, and paying benefits as prescribed by law or regulation. (ASOP No. [32][32])   
 >  
-> [2] Health benefit programs including but not limited to commercial and employer sponsored health insurance, self-funded employer health insurance, and government sponsored health insurance, such as Medicaid and Medicare. (ASOP No. [45][45])
+> 2: Health benefit programs including but not limited to commercial and employer sponsored health insurance, self-funded employer health insurance, and government sponsored health insurance, such as Medicaid and Medicare. (ASOP No. [45][45])
 
 ##### Program Assets:
 > The investments held by the trust fund, including any cash balance, available to meet program costs. (ASOP No. [32][32])
@@ -1175,15 +1175,15 @@ market participant would use in assessing the amount the participant would pay t
 > The program’s tax income, investment income, premiums, and any other receipts and income, other than loan proceeds. (ASOP No. [32][32])
 
 ##### Projected Benefits:
-> [1] Those pension plan benefit amounts which are expected to be paid at various future times under a particular set of actuarial assumptions, taking into account such items as the effect of advancement in age and past and anticipated future compensation and service credits. That portion of an individual’s projected benefit allocated to service to date, determined in accordance with the terms of a pension plan and based on future compensation as projected to retirement, is called the credited projected benefit. (ASOP No. [4][4])
+> 1: Those pension plan benefit amounts which are expected to be paid at various future times under a particular set of actuarial assumptions, taking into account such items as the effect of advancement in age and past and anticipated future compensation and service credits. That portion of an individual’s projected benefit allocated to service to date, determined in accordance with the terms of a pension plan and based on future compensation as projected to retirement, is called the credited projected benefit. (ASOP No. [4][4])
 
 ##### Projection Actuarial Cost Method or Forecast Actuarial Cost Method:
 > A method under which the excess of the actuarial present value of the sum of projected benefit payments for a specified period plus a funding objective as of the end of the period over the actuarial value of assets is allocated on a level basis over the earnings or service of the group during the specified period, including earnings or service for any future entrants assumed. The allocation is performed for the group as a whole, not as a sum of individual allocations. The portion of this actuarial present value allocated to a valuation year is called the annual cost allocation. (ASOP No. [4][4])
 
 ##### Providers:
-> [1] Individuals or organizations providing health care services, including doctors, hospitals, physical therapists, medical equipment suppliers, etc. (ASOP No. [16][16])   
+> 1: Individuals or organizations providing health care services, including doctors, hospitals, physical therapists, medical equipment suppliers, etc. (ASOP No. [16][16])   
 >  
-> [2] Individuals, groups, or organizations providing health care services, including doctors, hospitals, physical therapists, medical equipment suppliers, etc. (ASOP No. [42][42])
+> 2: Individuals, groups, or organizations providing health care services, including doctors, hospitals, physical therapists, medical equipment suppliers, etc. (ASOP No. [42][42])
 
 ##### Provider-Related Liability:
 > A liability established to cover expected future incentive or non-claim payments or to cover the possibility of a change in the relationship between the risk-assuming entity and a provider. (ASOP No. [42][42])
@@ -1194,14 +1194,14 @@ market participant would use in assessing the amount the participant would pay t
 ##### Qualified Actuary:
 > [1]An actuary who meets the qualification requirements set forth by applicable law. (ASOP No. [22][22])   
 >  
-> [2] An actuary who meets the qualification requirements set forth by applicable law, regulation, insurance blank instructions or requirements defined by a licensing organization requiring an opinion of health insurance liabilities. (Ex. Draft proposed revision of ASOP No. 28, Statements of Actuarial Opinion Regarding Health Insurance Liabilities)
+> 2: An actuary who meets the qualification requirements set forth by applicable law, regulation, insurance blank instructions or requirements defined by a licensing organization requiring an opinion of health insurance liabilities. (Ex. Draft proposed revision of ASOP No. 28, Statements of Actuarial Opinion Regarding Health Insurance Liabilities)
 
 ##### Qualified Domestic Relations Order (QDRO):
 > A domestic relations order that satisfies the qualification requirements of Internal Revenue Code (IRC) section 414(p) and section 206(d) of the Employee
 Retirement Income Security Act of 1974 (ERISA). (ASOP No. [34][34])
 
 ##### Rate:
-> [1] An estimate of the expected value of future costs. (ASOP Nos. 29 & 30)
+> 1: An estimate of the expected value of future costs. (ASOP Nos. 29 & 30)
 
 ##### Rate of Investment Return:
 > Investment income earned on funds held over time, generally expressed as an annualized percentage of the amount invested. (ASOP No. [20][20])
@@ -1279,7 +1279,7 @@ Retirement Income Security Act of 1974 (ERISA). (ASOP No. [34][34])
 > Health, death, and other benefits (excluding retirement income benefits) that are provided during retirement, to a group of individuals, on account of an employment relationship. (ASOP No. [6][6])
 
 ##### Retirement Plan:
-> [1] An employment-related arrangement for determining the amount and timing of retirement benefit payments, eligibility for payments, etc. A retirement plan may be a defined benefit pension plan, a defined contribution plan, or a hybrid plan with both defined benefit and defined contri- bution elements. It may be a plan qualified under the Internal Revenue Code, a nonqualified plan of deferred compensation, or a governmental plan sponsored by the United States or its agencies or a state or local government. (ASOP No. [34][34])
+> 1: An employment-related arrangement for determining the amount and timing of retirement benefit payments, eligibility for payments, etc. A retirement plan may be a defined benefit pension plan, a defined contribution plan, or a hybrid plan with both defined benefit and defined contri- bution elements. It may be a plan qualified under the Internal Revenue Code, a nonqualified plan of deferred compensation, or a governmental plan sponsored by the United States or its agencies or a state or local government. (ASOP No. [34][34])
 
 ##### Review:
 > An informal examination of the obvious characteristics of the selected data to determine if such data appear reasonable and consistent for purposes of the assignment. A review is not an audit of data. (ASOP No. [23][23])
@@ -1291,14 +1291,14 @@ Retirement Income Security Act of 1974 (ERISA). (ASOP No. [34][34])
 > The date (subsequent to the valuation date) through which material information known to the actuary is included in forming the reserve opinion. (ASOP No. [36][36])
 
 ##### Risk(s):
-> [1] Individuals or entities covered by financial or personal security systems. (ASOP No. [12][12]);   
+> 1: Individuals or entities covered by financial or personal security systems. (ASOP No. [12][12]);   
 >  
-> [2] The potential of future losses or shortfalls from expectations due to deviation of actual results from expected results. (ASOP No. [47][47])
+> 2: The potential of future losses or shortfalls from expectations due to deviation of actual results from expected results. (ASOP No. [47][47])
 
 ##### Risk Adjustment:
 > The process by which relative risk factors are assigned to individuals or groups based on expected resource use and by which those factors are taken into consideration and applied. (ASOP No. [45][45]);   
 >  
-> [2] The potential of future losses or shortfalls from expectations due to deviation of actual results from expected results. (ASOP No. [46][46])
+> 2: The potential of future losses or shortfalls from expectations due to deviation of actual results from expected results. (ASOP No. [46][46])
 
 ##### Risk Appetite:
 > The level of aggregate risk that an organization chooses to take in pursuit of its objectives. (ASOP Nos. [46][46] and [47][47])
@@ -1361,9 +1361,9 @@ Retirement Income Security Act of 1974 (ERISA). (ASOP No. [34][34])
 > The value assigned to each condition category that indicates the expected contribution of that condition category to an individual’s estimated resource use. (ASOP No. [45][45])
 
 ##### Scenario:
-> [1] A set of economic, demographic, and operating assumptions on the basis of which projections are made. (ASOP No. [32][32])   
+> 1: A set of economic, demographic, and operating assumptions on the basis of which projections are made. (ASOP No. [32][32])   
 >  
-> [2] A set of economic and other assumptions used in performing cash flow analysis. (ASOP Nos. [7][7] and [22][22])
+> 2: A set of economic and other assumptions used in performing cash flow analysis. (ASOP Nos. [7][7] and [22][22])
 
 ##### Scenario Test:
 > A process for assessing the impact of one possible event or several simultaneously or sequentially occurring possible events on an organization’s financial position. (ASOP No. [46][46]) 
@@ -1381,19 +1381,19 @@ Retirement Income Security Act of 1974 (ERISA). (ASOP No. [34][34])
 > The impact on insurance costs of societal changes such as changes in claim consciousness, court practices, and legal precedents, a well as in other noneconomic factors. (ASOP No. [13][13])
 
 ##### Spouse:
-> [1] A party to the domestic relations action who is not the covered party. Normally, the term refers to the current spouse or former spouse of the covered party, but may on occasion refer to a child (or children) or other party to the domestic relations action. (ASOP No. [34][34])   
+> 1: A party to the domestic relations action who is not the covered party. Normally, the term refers to the current spouse or former spouse of the covered party, but may on occasion refer to a child (or children) or other party to the domestic relations action. (ASOP No. [34][34])   
 >  
-> [2] A husband, wife, or domestic partner eligible for retiree group benefits. (ASOP No. [6][6])
+> 2: A husband, wife, or domestic partner eligible for retiree group benefits. (ASOP No. [6][6])
 
 ##### Spread Gain Actuarial Cost Method:
 > An actuarial cost method under which actuarial gains and losses are included as part of the current and future normal costs of the plan. ASOP No. [4][4])
 
 ##### Statement of Actuarial Opinion:
-> [1] A formal statement of the actuary’s professional opinion on a defined subject. It outlines the scope of the work but normally does not include descriptive details. (ASOP No. [9][9])   
+> 1: A formal statement of the actuary’s professional opinion on a defined subject. It outlines the scope of the work but normally does not include descriptive details. (ASOP No. [9][9])   
 >  
-> [2] A formal statement of the actuary’s professional opinion on a defined subject. (ASOP Nos. 32 and 36)   
+> 2: A formal statement of the actuary’s professional opinion on a defined subject. (ASOP Nos. 32 and 36)   
 >  
-> [3] An opinion expressed by an actuary in the course of performing actuarial services and intended by that actuary to be relied upon by the person or organization to which that opinion is addressed. (Ex. Draft proposed revision of ASOP No. 28, Statements of Actuarial Opinion Regarding Health Insurance Liabilities)
+> 3: An opinion expressed by an actuary in the course of performing actuarial services and intended by that actuary to be relied upon by the person or organization to which that opinion is addressed. (Ex. Draft proposed revision of ASOP No. 28, Statements of Actuarial Opinion Regarding Health Insurance Liabilities)
 
 ##### Statement of Actuarial Review:
 > A formally communicated appraisal of actuarial work done by another person. (ASOP No. [9][9])
@@ -1411,9 +1411,9 @@ Retirement Income Security Act of 1974 (ERISA). (ASOP No. [34][34])
 > A specific set of data drawn from the experience under consideration for the purpose of predicting the parameter understudy. (ASOP No. [25][25])
 
 ##### Subsequent Events:
-> [1] Events that occur after the valuation date and before the date of the opinion. (ASOP No. [22][22])   
+> 1: Events that occur after the valuation date and before the date of the opinion. (ASOP No. [22][22])   
 >  
-> [2] Events (1) that have occurred since the end of the certification period and before the date of the certification, (2) that could materially affect current or future certifications rendered, and (3) about which the actuary has knowledge. (ASOP No. [26][26])
+> 2: Events (1) that have occurred since the end of the certification period and before the date of the certification, (2) that could materially affect current or future certifications rendered, and (3) about which the actuary has knowledge. (ASOP No. [26][26])
 
 ##### Survival Curve:
 > The probability data set representing the assumed probability of survival to the end of every period in the future for an insured. (ASOP No. [48][48])
@@ -1458,13 +1458,13 @@ Retirement Income Security Act of 1974 (ERISA). (ASOP No. [34][34])
 > A process by which the actuary evaluates how changes over time affect items such as claim costs, claim frequencies, expenses, exposures, premiums, retention rates, marketing/solicitation response rates, and economic indices. Trending procedures estimate future values by analyzing changes between exposure periods (for example, accident years or underwriting years). A trending procedure does not encompass the process commonly referred to as “development,” which estimates changes over time in losses (or other items) within a given exposure period. (ASOP No. [13][13])
 
 ##### Trend(s):
-> [1] Measures of rates of change, over time, of the elements affecting incurred claims. (ASOP No. [5][5])   
+> 1: Measures of rates of change, over time, of the elements affecting incurred claims. (ASOP No. [5][5])   
 >  
-> [2] A measure of the rate of change, over time, of the per capita health care rates (ASOP [6][6]);   
+> 2: A measure of the rate of change, over time, of the per capita health care rates (ASOP [6][6]);   
 >  
-> [3] Measures of rates of change, over time, of the elements affecting the determination of certain liabilities. (ASOP NO. [42][42])   
+> 3: Measures of rates of change, over time, of the elements affecting the determination of certain liabilities. (ASOP NO. [42][42])   
 >  
-> [4] Measure of rates of change, over time, that affects revenues, costs, or actuarial assumptions. (ASOP No. [3][3])
+> 4: Measure of rates of change, over time, that affects revenues, costs, or actuarial assumptions. (ASOP No. [3][3])
 
 ##### Trust Fund:
 > An account to which income is credited and from which benefits and often administrative expenses are deducted for a specified program. (ASOP No. [32][32])
@@ -1491,28 +1491,28 @@ Retirement Income Security Act of 1974 (ERISA). (ASOP No. [34][34])
 > A method under which the benefits (projected or unprojected) of each individual included in an actuarial valuation are allocated by a consistent formula to valuation years. The actuarial present value of benefits allocated to a valuation year is called the normal cost. The actuarial present value of benefits allocated to all periods prior to a valuation year is called the actuarial accrued liability. (ASOP No. [4][4])
 
 ##### Unpaid Claim Estimate:
-> [1] The actuary’s estimate of the obligation for future payment resulting from claims due to a past events. (ASOP No. [43][43])   
+> 1: The actuary’s estimate of the obligation for future payment resulting from claims due to a past events. (ASOP No. [43][43])   
 >  
-> [2] The process of developing an unpaid claim estimate. (ASOP No. [36][36])   
+> 2: The process of developing an unpaid claim estimate. (ASOP No. [36][36])   
 >  
-> [3] The actuary’s estimate of the obligation for future payment resulting from claims due to past events. For clarity and unless otherwise indicated, this estimate is on an undiscounted basis and the terms “unpaid claim estimate” and “undiscounted unpaid claim estimate” are used interchangeably throughout this standard. (ASOP No. [20][20])
+> 3: The actuary’s estimate of the obligation for future payment resulting from claims due to past events. For clarity and unless otherwise indicated, this estimate is on an undiscounted basis and the terms “unpaid claim estimate” and “undiscounted unpaid claim estimate” are used interchangeably throughout this standard. (ASOP No. [20][20])
 
 ##### Unpaid Claim Estimate Analysis:
 > The process of developing an unpaid claim estimate. (ASOP No. [43][43]); and (2nd Ex. draft proposed revision of ASOP No. 36 Statements of Actuarial Opinion Regarding Property/Casualty Loss and Loss Adjustment Expense Reserves)
 
 ##### Unpaid Claims Liability:
-> [1] The value of the unpaid portion of incurred claims includes (1) unreported claims; (2) reported but unprocessed claims; and (3) processed but unpaid claims. For an organization’s balance sheet, the unpaid claims liability includes provision for all current and prior valuation periods. (ASOP No. [5][5])   
+> 1: The value of the unpaid portion of incurred claims includes (1) unreported claims; (2) reported but unprocessed claims; and (3) processed but unpaid claims. For an organization’s balance sheet, the unpaid claims liability includes provision for all current and prior valuation periods. (ASOP No. [5][5])   
 >  
-> [2] The value of the unpaid portion of incurred claims includes (a) unreported claims; (b) reported but unprocessed claims; and (c) processed but unpaid claims. For a risk-assuming entity’s balance sheet, the unpaid claims liability includes provision for all unpaid claims incurred during the contract Period as of the current valuation date. (ASOP No. [42][42])
+> 2: The value of the unpaid portion of incurred claims includes (a) unreported claims; (b) reported but unprocessed claims; and (c) processed but unpaid claims. For a risk-assuming entity’s balance sheet, the unpaid claims liability includes provision for all unpaid claims incurred during the contract Period as of the current valuation date. (ASOP No. [42][42])
 
 ##### Valuation Date:
-> [1] The date as of which the liabilities are determined. (ASOP No. [42][42])   
+> 1: The date as of which the liabilities are determined. (ASOP No. [42][42])   
 >  
-> [2] The date as of which the values of the assets and liabilities of the CCRC are determined. (ASOP No. [3][3])   
+> 2: The date as of which the values of the assets and liabilities of the CCRC are determined. (ASOP No. [3][3])   
 >  
-> [3] The date through which transactions are included in the data used in the unpaid claim estimate analysis. (ASOP No. [36][36])   
+> 3: The date through which transactions are included in the data used in the unpaid claim estimate analysis. (ASOP No. [36][36])   
 >  
-> [4] The date for which the actuarial opinion is provided and the cutoff date for amounts recorded as paid in a financial statement. This sometimes is referred to as the accounting date. (Ex. Draft proposed revision of ASOP No. 28, Statements of Actuarial Opinion Regarding Health Insurance Liabilities)
+> 4: The date for which the actuarial opinion is provided and the cutoff date for amounts recorded as paid in a financial statement. This sometimes is referred to as the accounting date. (Ex. Draft proposed revision of ASOP No. 28, Statements of Actuarial Opinion Regarding Health Insurance Liabilities)
 
 ##### Valuation Period:
 > A defined period for which incurred claims are recorded. (ASOP No. [5][5])
